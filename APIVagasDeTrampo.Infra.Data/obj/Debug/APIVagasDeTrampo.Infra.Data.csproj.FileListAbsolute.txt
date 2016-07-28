@@ -1,0 +1,12 @@
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\APIVagasDeTrampo.Infra.Data.dll.config
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\APIVagasDeTrampo.Infra.Data.dll
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\APIVagasDeTrampo.Infra.Data.pdb
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\DB1.AvaliacaoTecnica.Console.dll
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\EntityFramework.dll
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\DB1.AvaliacaoTecnica.Console.pdb
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\EntityFramework.xml
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\obj\Debug\APIVagasDeTrampo.Infra.Data.csprojResolveAssemblyReference.cache
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\obj\Debug\APIVagasDeTrampo.Infra.Data.dll
+E:\git\APIdeVagasDeTrampo\APIVagasDeTrampo\APIVagasDeTrampo.Infra.Data\obj\Debug\APIVagasDeTrampo.Infra.Data.pdb

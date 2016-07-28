@@ -1,0 +1,10 @@
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\DB1.AvaliacaoTecnica.Console.exe.config
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\DB1.AvaliacaoTecnica.Console.exe
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\DB1.AvaliacaoTecnica.Console.pdb
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\EntityFramework.dll
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\EntityFramework.xml
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\obj\Debug\DB1.AvaliacaoTecnica.Console.exe
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\obj\Debug\DB1.AvaliacaoTecnica.Console.pdb
+C:\Users\Alan\Downloads\Prova .NET\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica\DB1.AvaliacaoTecnica.Console\obj\Debug\DB1.AvaliacaoTecnica.Console.csprojResolveAssemblyReference.cache
